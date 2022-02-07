@@ -1,6 +1,6 @@
-# Merhaba, ben Buğrahan Özdemir <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Merhaba, Ben **Buğrahan Özdemir** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## Hakkımda🧑🏼‍💻
+## Hakkımda🧑🏻‍💻
 
 <table>
   <tr>
@@ -20,13 +20,12 @@
 ## İletişim👋🏼
 
 <p align="left">  
+  <a href="https://www.instagram.com/testobugra/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
   <a href="https://twitter.com/testobugra_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
   <!-- <a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a> -->
   <!-- <a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a> -->
-  <a href="https://www.instagram.com/testobugra/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
   <a href="https://discordapp.com/users/7483" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="35" width="40" /></a>
-
-<a href="https://codepen.io/BugrahanOzdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png" alt="BugrahanOzdemir" height="35" width="40" /></a>
+  <a href="https://codepen.io/BugrahanOzdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png" alt="BugrahanOzdemir" height="35" width="40" /></a>
 
 <!-- <a href="https://leetcode.com/BugrahanOzdemir/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="BugrahanOzdemir" height="35" width="35"/></a> -->
 </p>
