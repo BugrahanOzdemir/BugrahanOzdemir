@@ -10,7 +10,7 @@
       <h3><strong>İhracat Data</strong>®</h3>
       <p>İhracat Data’nın sertifikalı veritabanında bulunan yurtiçi ve yurtdışı firmalar ile şirketinizi tüm dünyada tanıtın!
       </p>
-      <p>İncele: <a href="ihracatdata.com" target="_blank">www.ihracatdata.com</a></p>
+      <p>İncele: <a href="https://ihracatdata.com" target="_blank">www.ihracatdata.com</a></p>
       </div>
   </td>
   <tr>
@@ -20,7 +20,7 @@
       <h3><strong>Avensa Dijital</strong>®</h3>
       <p>Firmanızın dijital dünyada ihtiyacı olan tüm çözümlerimiz ile işinizin her zaman destekçisiyiz.
       </p>
-      <p>İncele: <a href="avensa.com.tr" target="_blank">www.avensa.com.tr</a></p>
+      <p>İncele: <a href="https://avensa.com.tr" target="_blank">www.avensa.com.tr</a></p>
       </div>
   </td>
   </tr>
