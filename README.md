@@ -6,13 +6,26 @@
   <tr>
     <td align="left">
     <div style="background-color: #0F1620; padding: 12px; border-radius: 12px; margin-left: -12px;">
+      <img src="./src/brands/han-ticari-yatirim-logo.png" width="120"/>
+      <h3><strong>Han Ticari Yatırım</strong>®</h3>
+      <p>Yeni nesil girişimcilik.
+      </p>
+      <p>İncele: <a href="https://hanticariyatirim.com" target="_blank">www.hanticariyatirim.com</a></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+    <div style="background-color: #0F1620; padding: 12px; border-radius: 12px; margin-left: -12px;">
       <img src="./src/brands/ihracat-data-logo.png" width="120"/>
       <h3><strong>İhracat Data</strong>®</h3>
       <p>İhracat Data’nın sertifikalı veritabanında bulunan yurtiçi ve yurtdışı firmalar ile şirketinizi tüm dünyada tanıtın!
       </p>
       <p>İncele: <a href="https://ihracatdata.com" target="_blank">www.ihracatdata.com</a></p>
       </div>
-  </td>
+    </td>
+  </tr>
+
   <tr>
   <td>
   <div style="background-color: #0F1620; padding: 12px; border-radius: 12px; margin-left: -12px;">
@@ -23,8 +36,6 @@
       <p>İncele: <a href="https://avensa.com.tr" target="_blank">www.avensa.com.tr</a></p>
       </div>
   </td>
-  </tr>
-
   </tr>
 </table>
 
