@@ -38,11 +38,7 @@
 </p>
     
 ## Teknolojiler ⚙️
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/null/react-native.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/null/react-native.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <hr>
 
 <!-- ## My Experiences🙌🏼
