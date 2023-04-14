@@ -1,48 +1,49 @@
-# Merhaba, Ben **Buğrahan Özdemir** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Merhaba, Ben **Buğrahan Özdemir** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="29px">
 
-## Hakkımda🧑🏻‍💻
+## Markalarım 🌠
 
 <table>
   <tr>
-    <td valign="center">
-
-🌱 Aktif olarak yeni web teknolojileri üzerinde çalışmaktayım.
-
-🎯 Her gün yeni konular üzerinde araştırma yaparak kendimi geliştirmeye ve bir önceki günden iyi olmaya çalışıyorum.
-
-✨ **Modern ve kullanışlı** projelerimin yapıtaşıdır.
-
-</td>
+    <td align="left">
+    <div style="background-color: #0F1620; padding: 12px; border-radius: 12px; margin-left: -12px;">
+      <img src="./src/brands/ihracat-data-logo.png" width="120"/>
+      <h3><strong>İhracat Data</strong>®</h3>
+      <p>İhracat Data’nın sertifikalı veritabanında bulunan yurtiçi ve yurtdışı firmalar ile şirketinizi tüm dünyada tanıtın!
+      </p>
+      <p>İncele: <a href="ihracatdata.com" target="_blank">www.ihracatdata.com</a></p>
+      </div>
+  </td>
+  <tr>
+  <td>
+  <div style="background-color: #0F1620; padding: 12px; border-radius: 12px; margin-left: -12px;">
+      <img src="./src/brands/avensa-logo.png" width="120"/>
+      <h3><strong>Avensa Dijital</strong>®</h3>
+      <p>Firmanızın dijital dünyada ihtiyacı olan tüm çözümlerimiz ile işinizin her zaman destekçisiyiz.
+      </p>
+      <p>İncele: <a href="avensa.com.tr" target="_blank">www.avensa.com.tr</a></p>
+      </div>
+  </td>
+  </tr>
 
   </tr>
 </table>
 
-## İletişim👋🏼
+## İletişim 👋🏼
 
 <p align="left">  
+  <a href="https://bugrahanozdemir.com" target="blank"><img src="https://img.icons8.com/color/48/null/internet--v1.png" alt="BugrahanOzdemir" height="35" width="35"/></a>
   <a href="https://www.instagram.com/testobugra/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-  <a href="https://twitter.com/testobugra_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-  <!-- <a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a> -->
-  <!-- <a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a> -->
-  <a href="https://discordapp.com/users/7483" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="" height="35" width="40" /></a>
-  <a href="https://codepen.io/BugrahanOzdemir" target="blank"><img src="https://img.icons8.com/color/48/000000/codepen.png" alt="BugrahanOzdemir" height="35" width="40" /></a>
-
-<!-- <a href="https://leetcode.com/BugrahanOzdemir/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="BugrahanOzdemir" height="35" width="35"/></a> -->
+  <a href="https://twitter.com/bhanozdemir_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+  <a href="https://www.linkedin.com/in/bugrahanozdemir/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 </p>
     
-## Teknolojiler⚙️
-
-### Programlama Dilleri✍🏼
-
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-
-### DevOps & Cloud Araçları⚒️
-
-<img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/windows-10.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+## Teknolojiler ⚙️
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/null/react-native.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+<img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<hr>
 
 <!-- ## My Experiences🙌🏼
 
@@ -61,7 +62,3 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BugrahanOzdemir&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="astrodevil" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BugrahanOzdemir&theme=highcontrast&hide_border=true" alt="astrodevil" />
 </p>
-  
-<!-- ## Support Me💰
-
-<a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a> -->
